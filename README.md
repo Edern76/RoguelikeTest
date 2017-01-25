@@ -1,0 +1,2 @@
+# DementiaRL
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/249c9035ca1b45159f57ec176095594f)](https://www.codacy.com/app/Edern/DementiaRL?utm_source=github.com&utm_medium=referral&utm_content=Edern76/DementiaRL&utm_campaign=badger)
